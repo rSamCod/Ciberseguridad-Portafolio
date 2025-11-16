@@ -20,7 +20,7 @@ Soy un entusiasta de la ciberseguridad y estoy documentando activamente mi viaje
 Aquí es donde documento mi trabajo. ¡Mi repositorio más activo es el de CTFs!
 
 * **Mi Repositorio de Write-Ups:**
-    * **[https://github.com/rSamCod/CTF-Writeups](https://github.com/zSamCod/CTF-Writeups)**
+    * **[https://github.com/rSamCod/CTF-Writeups](https://github.com/rSamCod/CTF-Writeups)**
 
 ---
 
